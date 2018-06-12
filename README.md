@@ -1,4 +1,7 @@
 # blog-exporte-quick
+
+[![Build Status](https://travis-ci.org/vector4wang/blog-export-quick.svg?branch=master)](https://travis-ci.org/vector4wang/blog-export-quick)
+
 博客的导出为MD格式的文件，已完成CSDN的
 
 
