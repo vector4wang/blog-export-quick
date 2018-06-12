@@ -11,6 +11,9 @@
 
 然后点击转换，即可得到对应的MD格式的文件~~~
 
+`CSDN2mdService.convertAllBlogByUserName(String username)` 
+
+这个方法可以把该用户下的所有博客导出来(直接在main方法里调用该方法就行了)
 
 >补充：html转md 这个方法，到目前为止没有哪个人敢说自己能将html百分之百转换为md，因为html样式千奇百怪，所以针对一些不复杂的html，此方法还是
 很有效的
